@@ -1,7 +1,7 @@
 public class DivisionExample {
     public static void main(String[] args) {
         int numerator = 10;
-        int denominator = 0; // Trying to divide by zero
+        int denominator = 0; 
         
         try {
             divideNumbers(numerator, denominator);
